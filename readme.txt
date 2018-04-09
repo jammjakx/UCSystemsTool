@@ -12,3 +12,5 @@ https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/calling-a-web-
 spent the day preparing for exams tomorrow.
 
 05/04 Exception thrown: 'System.Net.Http.HttpRequestException' in System.Private.CoreLib.dll
+
+09/04 Almost got server app running.
